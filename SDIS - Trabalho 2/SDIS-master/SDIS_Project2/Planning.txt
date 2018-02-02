@@ -1,0 +1,2 @@
+Completar a maneira do server fazer authenticate. Ver se já está autenticado, repetidos, número de argumentos, etc?
+Acabar a lógica necessária para começar a "fundir" os projectos.
